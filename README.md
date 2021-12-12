@@ -22,5 +22,7 @@ Here are some ideas to get you started:
 ### GitHub Stats
 ![Eddie's GitHub stats](https://github-readme-stats.vercel.app/api?username=EddieTanDJ&count_private=true&theme=dark&hide=stars,issues)
 <br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EddieTanDJ&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EddieTanDJ&layout=compact&theme=dark)
+<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EddieTanDJ&theme=dark)
 
