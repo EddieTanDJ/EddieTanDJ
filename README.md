@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
+### GitHub Stats
 ![Eddie's GitHub stats](https://github-readme-stats.vercel.app/api?username=EddieTanDJ&count_private=true&theme=dark&hide=stars,issues)
 <br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EddieTanDJ&theme=dark)](https://git.io/streak-stats)
