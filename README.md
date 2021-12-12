@@ -1,8 +1,9 @@
 ### Hi there, I am Eddie.👋 
-
-
-
-
+### I am a Software Engineering Student!
+- I’m currently undergrate in BEng (Hons) in Information and Communications Technology, majoring in Software Engineering. 🧑‍🎓
+### Connect with Me:
+[<img align="left" alt="Eddie | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/eddie-tan-de-jun/)
+</br>
 <!--
 **EddieTanDJ/EddieTanDJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,6 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
+---
+![Eddie's GitHub stats](https://github-readme-stats.vercel.app/api?username=EddieTanDJ&count_private=true&theme=dark&hide=stars,issues)
+<br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EddieTanDJ&theme=dark)](https://git.io/streak-stats)
+
