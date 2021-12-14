@@ -1,6 +1,6 @@
 ### Hi there, I am Eddie.👋 
 ### I am a Software Engineering Student!
-- I’m currently undergrate in BEng (Hons) in Information and Communications Technology, majoring in Software Engineering. 🧑‍🎓
+- I’m currently an undergraduate in BEng (Hons) in Information and Communications Technology, majoring in Software Engineering. 🧑‍🎓
 ### Connect with Me:
 [<img align="left" alt="Eddie | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/eddie-tan-de-jun/)
 </br>
