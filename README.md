@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EddieTanDJ&layout=compact&theme=dark)
 <br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EddieTanDJ&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EddieTanDJ&theme=dark)](https://git.io/streak-stats)
 
