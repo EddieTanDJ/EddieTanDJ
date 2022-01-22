@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 -->
 ---
 ### GitHub Stats
-[![Eddie's GitHub stats](https://github-readme-stats.vercel.app/api?username=EddieTanDJ&count_private=true&theme=dark&hide=stars,issues)](https://github-readme-stats.vercel.app/api?username=EddieTanDJ&count_private=true&theme=dark&hide=stars,issues)
+[![Eddie's GitHub stats](https://github-readme-stats.vercel.app/api?username=EddieTanDJ&count_private=true&theme=dark&hide=stars,issues&show_icons=true)](https://github-readme-stats.vercel.app/api?username=EddieTanDJ&count_private=true&theme=dark&hide=stars,issues&show_icons=true)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EddieTanDJ&layout=compact&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=EddieTanDJ&layout=compact&theme=dark)
 <br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EddieTanDJ&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=EddieTanDJ&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EddieTanDJ&theme=dark&date_format=j%20M%5B%20Y%5D&fire=DD0B12)](https://github-readme-streak-stats.herokuapp.com/?user=EddieTanDJ&theme=dark&date_format=j%20M%5B%20Y%5D&fire=DD0B12)
 
 Credits for Github Stats: 
 - [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
